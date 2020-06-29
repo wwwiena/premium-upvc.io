@@ -2199,6 +2199,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
     position: relative;
     padding: 6px 20px;
     display: flex;
+   align-items: center;
 }
 
 .panel-group .panel {
